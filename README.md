@@ -24,4 +24,14 @@ Credit card fraud costs banks and consumers billions annually. This project buil
 - Confusion Matrix - Shows true/false positives & negatives
 - Feature Importance - Identifies top fraud indicators
 
-## 🛠️ Technologies Used
+## 📊 Visualizations
+
+### Logistic Regression
+![Logistic Regression](images/logistic_confusion_matrix.png)
+
+### Random Forest
+![Random Forest](images/random_forest_confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
